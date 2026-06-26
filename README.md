@@ -3,7 +3,7 @@
 
 Welcome to my **Python Practice Phase** repository! 🚀
 
-This repository documents my hands-on Python learning journey through practical exercises and mini-projects. Instead of focusing only on syntax, I practice solving real programming problems to strengthen my logical thinking and programming skills.
+This repository documents my hands-on Python learning journey through practical exercises and mini-real time exercise. Instead of focusing only on syntax, I practice solving real programming problems to strengthen my logical thinking and programming skills.
 
 The notebook contains multiple implementations of the **Number Guessing Game**, along with password authentication examples and demonstrations of important Python concepts.
 
